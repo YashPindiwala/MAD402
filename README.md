@@ -22,3 +22,6 @@ The design of Craigslist is simple and the layout is not complicated. It is easy
 - It is very easy to locate adding post, because it is on the top just next to account section.
 - As there are not many multimedia such as images, on home page the web app loads pretty quickly.
 - The UI is not consistent on all the screen, some screen follows similar layout and some does not.
+
+# Conclusion
+After evaluating the Craigslist, the web app provides neutral experience, because users would like to see different colors / combination of colors, different layout patterns, variety of icons. The one thing that I liked about Craiglist is the way it approaches to allow the user to add new posting in a step by step manner. Every category when visited it shows 61 posts available, however it is not possible to have 61 posts for multiple categories. If it would be me, I would make changes to the web app by arrranging the layout to show information covering the full screen on desktop, and would make categories list as dropdown so the user can quickly navigate. I would also add beautiful attractive colors.
