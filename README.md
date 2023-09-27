@@ -14,4 +14,11 @@ The design of Craigslist is simple and the layout is not complicated. It is easy
 - The look and feel does not attract a user, because there are not many images or combination of colours used throughout the web app.
 - The overall design consist of only single colour which is blue, however it is quite readable on the white background.
 - The design is responsive so the layout design changes, from going from bigger screen to smaller screen.
+
+# UI/UX
+- The overall experience
+- The white spaces and readability is good enough for the users on smaller screen. On larger screen the sub-categories under categories could have some more padding to decrease wrong clicking on the links.
 - The small screen design is much more focused on categories, which draws the eyes of user. It mimics the feel of a side drawer on the android phone.
+- It is very easy to locate adding post, because it is on the top just next to account section.
+- As there are not many multimedia such as images, on home page the web app loads pretty quickly.
+- The UI is not consistent on all the screen, some screen follows similar layout and some does not.
